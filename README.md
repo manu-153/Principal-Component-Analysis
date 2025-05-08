@@ -1,3 +1,4 @@
+# Image Processing and PCA Analysis
 
 ## Overview
 This project performs various computations on transition probability matrices, eigenvalue decomposition, and Principal Component Analysis (PCA) on images. The goal is to analyze the long-run behavior of Markov chains and apply PCA for dimensionality reduction of images.
